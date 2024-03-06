@@ -1,0 +1,21 @@
+:root {
+    --background: #101827;
+    --text-color: #ffffff;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+    }
+}
+
+body {
+    font-family: "Josefin Sans", sans-serif;
+    color: var(--text-color);
+    background: var(--background);
+}
+
+@layer utilities {
+    .text-balance {
+        text-wrap: balance;
+    }
+}

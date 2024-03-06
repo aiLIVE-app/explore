@@ -1,0 +1,93 @@
+{
+    "site": {
+        "name": "Ailive",
+        "ticker": "$AILIVE"
+    },
+    "metadata": {
+        "title": "Ailive AI and NFT generative storytelling",
+        "description": "Ailive employs AI modeling to give NFTs a personality, enabling you to converse and embark on adventure games alongside these lively entities."
+    },
+    "hero": {
+        "title": "Dive into the World of Endless AI-Generated Entertainment",
+        "text": ["Powered by $AILIVE"],
+        "button": {
+            "title": "Find out more",
+            "link": "https://docs.fable.onl/about-fable/introduction"
+        },
+        "images": [
+            "./hero1.svg",
+            "./hero2.svg",
+            "./hero3.svg",
+            "./hero4.svg",
+            "./hero5.svg"
+        ]
+    },
+    "whatisfable": {
+        "title": "What is $AILIVE",
+        "text": [
+            "$AILIVE is a deflationary token.",
+            "Burn it to power AI products."
+        ],
+        "button": {
+            "title": "Tokeneconomics",
+            "link": "https://docs.fable.onl/getting-started/what-is-usdfable"
+        }
+    },
+    "whatissouls": {
+        "title": "What is Souls?",
+        "text": [
+            "Souls is the first of many products that Ailive develops!",
+            "Souls bring your NFTs to life as engaging companions, eager to discover and traverse life alongside you.",
+            "Burn $AILIVE to bring your NFT to life."
+        ],
+        "button": {
+            "title": "Check it out now",
+            "link": "https://souls.fable.onl/"
+        }
+    },
+    "whatsnext": {
+        "title": "What's next?",
+        "text": [
+            "Burn $AILIVE to go through a generative adventures game in many different genres as an NFT.",
+            "Find out how their unique personality changes the way the story evolves."
+        ],
+        "button": {
+            "title": "Find out more",
+            "link": "https://docs.fable.onl/products/adventure"
+        },
+        "images": [
+            {
+                "title": "Fantasy",
+                "link": "./fantasy.jpg"
+            },
+            {
+                "title": "Sci fi",
+                "link": "./scifi.jpg"
+            },
+            {
+                "title": "Thriller",
+                "link": "./thriller.jpg"
+            },
+            {
+                "title": "Mystery",
+                "link": "./mystery.jpg"
+            },
+            {
+                "title": "History",
+                "link": "./history.jpg"
+            },
+            {
+                "title": "Horror",
+                "link": "./horror.jpg"
+            },
+            {
+                "title": "Cyberpunk",
+                "link": "./cyberpunk.jpg"
+            },
+            {
+                "title": "Romance",
+                "link": "./romance.jpg"
+            }
+        ]
+    }
+}

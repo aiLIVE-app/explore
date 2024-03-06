@@ -1,0 +1,23 @@
+li .ken-burn {
+    transform: scale(1.3);
+
+    img {
+        width: 100%;
+        object-fit: cover;
+        height: 100%;
+    }
+}
+
+li.is-active .ken-burn {
+    animation: zoom 12s normal forwards ease;
+    height: 100%;
+}
+
+@keyframes zoom {
+    0% {
+        transform: scale(1.2);
+    }
+    100% {
+        transform: scale(1.5);
+    }
+}

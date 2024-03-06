@@ -1,0 +1,14 @@
+{
+    "title": "Follow us",
+    "backgroundImage": "./hero3.svg",
+    "links": [
+        {
+            "title": "twitter",
+            "link": "https://twitter.com/elonmusk"
+        },
+        {
+            "title": "telegram",
+            "link": "https://t.me/"
+        }
+    ]
+}

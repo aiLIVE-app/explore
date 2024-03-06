@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  basePath: "/fable",
+  basePath: "/explore",
   output:'export',
 };
 /* module.exports = nextConfig*/
